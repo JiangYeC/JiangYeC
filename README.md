@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JiangYeC
-- 👀 I’m interested in Artificial Intelligence,Computer Vision, Internet of Things and something and some of the directions associated with that.
+- 👀 I’m interested in Artificial Intelligence,Computer Vision, Internet of Things and some of the directions associated with that.
 - 🌱 I’m currently learning OpenCV and Deep Learning.
 - 📫 How to reach me : 1826453151@qq.com.
 
